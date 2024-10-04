@@ -1,3 +1,4 @@
+#!/bin/bash
 
 redis-server --daemonize yes
 if [ $? -ne 0 ]; then
