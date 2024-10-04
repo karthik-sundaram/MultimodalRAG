@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-experimental
+unstructured[all-docs]
+htmltabletomd
+requests
+redis>=4.1.0
+chromadb
+ipython

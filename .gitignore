@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+
+# PDF uploads and image outputs
+uploaded_documents/
+figures/
+
+# Environment variables
+*.env
+
+# Cache and log files
+*.log
+.cache/
+*.cache
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+./figures
